@@ -1,1 +1,1 @@
-# COmplete SQL with notes and codes
+# Complete SQL with notes and codes
